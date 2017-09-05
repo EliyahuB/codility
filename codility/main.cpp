@@ -204,7 +204,7 @@ void main()
 
 	//vector<int> arr = { 2,4,3,1,6,8 ,7 ,5};
 	//cout << PermCheck(arr);
-	vector<int> arr = { 1,3,1,4,2,3,5,4};
-	cout << FrogRiverOne(5,arr);
+	//vector<int> arr = { 1,3,1,4,2,3,5,4};
+	//cout << FrogRiverOne(5,arr);
 	system("pause");
 }
